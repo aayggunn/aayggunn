@@ -3,7 +3,7 @@
 My name is Abdurrahman and I'm a Electrical and Electronics Engineering student, from Turkey, Kayseri.
 
 ## About me
-📚 I'm currently programming C/C++ and PHP and learning Assembly. Although I usually work on web programming, I also work and develop projects on embedded system programming with C and Assembly.
+📚 I'm currently programming C/C++ and PHP also learning Assembly. Although I usually work on web programming, I also work and develop projects on embedded system programming with C and Assembly.
 
 ## About Karavan Tech
 
