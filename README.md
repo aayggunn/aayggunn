@@ -1,4 +1,4 @@
-# Hello 👋 Welcome to my profile.
+# Hello. It's Aygun.
 
 My name is Abdurrahman and I'm a Electrical and Electronics Engineering student, from Turkey, Kayseri.
 
