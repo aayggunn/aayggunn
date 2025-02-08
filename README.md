@@ -1,3 +1,6 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayggunn&layout=compact&theme=dark)
+
+
 # Hello. It's Aygun.
 
 My name is Abdurrahman and I'm a Electrical and Electronics Engineering student, from Turkey, Kayseri.
