@@ -1,4 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayggunn&layout=compact&theme=dark)
 
 
 # Hello. It's Aygun.
