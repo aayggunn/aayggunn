@@ -1,5 +1,7 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayggunn&layout=compact&theme=dark)
-
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=aayggunn&layout=compact&theme=radical)
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=aayggunn&show_icons=true&theme=radical)
+<script src="https://gist.github.com/aayggunn/gist-id.js"></script>
+![Katkı Grafiği](https://ghchart.rshah.org/aayggunn)
 
 # Hello. It's Aygun.
 
