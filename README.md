@@ -1,5 +1,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayggunn&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=aayggunn&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true)
 
 # 👋 Hello. It's Aygun.
 
