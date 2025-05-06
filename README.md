@@ -1,4 +1,4 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayggunn&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayggunn&layout=compact&theme=tokyonight)
 
 # 👋 Hello. It's Aygun.
 
