@@ -1,6 +1,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayggunn&layout=compact&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aayggunn&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=KULLANICI_ADINIZ&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=aayggunn&theme=tokyonight)
 
 # 👋 Hello. It's Aygun.
 
