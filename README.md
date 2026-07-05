@@ -1,12 +1,6 @@
-# Merhaba, Ben Abdurrahman Aygün 👋
 
-Erciyes Üniversitesi Elektrik-Elektronik Mühendisliği son sınıf öğrencisiyim. Düşük seviyeli (low-level) yazılım optimizasyonu, mikrodenetleyici mimarileri ve gerçek zamanlı sistemler üzerine yoğunlaşıyorum. Donanımın sınırlarını zorlamayı ve bare-metal çözümler üretmeyi seviyorum.
 
-Platform projelerim ve gömülü mimari üzerine notlarımı paylaştığım topluluk çalışmalarına odaklanıyorum.
-
----
-
-### 🛠️ Teknik Yetenekler & Araçlar
+### 🛠️ Tech Stack & Professional Tools
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -17,44 +11,54 @@ Platform projelerim ve gömülü mimari üzerine notlarımı paylaştığım top
 
 ---
 
-### 🚀 Öne Çıkan Projelerim
+### 🚀 Featured Engineering Projects
 
-* **Radar & Target Visualization System:** STM32F411E-DISCO platformu üzerinde, register seviyesinde (bare-metal) SPI ve UART protokollerini koşturarak geliştirdiğim gerçek zamanlı radar ve hedef tespit görselleştirme sistemi.
-* **Web-Based P2P Video Chat Platform:** PHP ve MySQL mimarisi üzerine kurulan, özel eşleşme (matchmaking) ve sinyalleşme algoritmalarına sahip gerçek zamanlı görüntülü sohbet projesi.
+* **STM32 Bare-Metal Radar & Target Detection System:** 
+  An STM32 bare-metal radar and target detection system that triggers graded LED and buzzer alerts using an HC-SR04 ultrasonic sensor mounted on a potentiometer (ADC) controlled servo motor (PWM), visualizes all peripheral states and real-time graphs on a GUI, and automatically logs all target data captured under 20 cm—including date, time, ADC, PWM, and distance—into an SQL database.
+
+* **Web-Based P2P Video Chat Platform:** 
+  A web-based peer-to-peer (P2P) video communication platform developed using PHP and MySQL, featuring a custom matchmaking mechanism and robust signaling logic designed for low-latency routing.
+
+* **Eruluden - Campus Community Platform:** 
+  A platform where Erciyes University students come together; where they can view important information such as news, announcements and scholarships all in one place; and where they can help one another with things like second-hand goods, letting or renting out flats, and sharing lecture notes.
 
 ---
 
-### 📊 GitHub Geliştirici Paneli
+### 📊 GitHub Developer Analytics
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayggunn&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="En Çok Kullanılan Diller" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayggunn&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=aayggunn&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub İstatistikleri" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=aayggunn&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Global Stats" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayggunn&theme=vision-friendly-dark&hide_border=true" alt="Kod Yazma İstikrarı" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayggunn&theme=vision-friendly-dark&hide_border=true" alt="Coding Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayggunn&theme=zenburn" alt="Profile Summary Overview" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📬 Benimle İletişime Geçin
+### 📬 Get In Touch
 
-Teknopark projeleri, uzun dönem staj / aday mühendislik fırsatları veya teknik fikir alışverişleri için bana her zaman ulaşabilirsiniz:
+I am open to Long-Term Internships, Candidate Engineer roles, R&D project collaborations, and technical discussions:
 
-* 📧 **E-posta:** aayggunn@gmail.com
+* 📧 **Email:** abdurrahmnaygun@gmail.com
 * 💼 **LinkedIn:** [linkedin.com/in/aayggunn](https://linkedin.com/in/aayggunn)
 
 ---
 
 <p align="right">
-  <img src="https://komarev.com/ghvc/?username=aayggunn&color=blue&style=flat-square" alt="Profil Ziyaretçisi" />
+  <img src="https://komarev.com/ghvc/?username=aayggunn&color=blue&style=flat-square" alt="Profile View Counter" />
 </p>
 
-*“Komplike sistemleri en alt katmanından başlayarak anlamak ve optimize etmek gerçek mühendisliktir.”*
