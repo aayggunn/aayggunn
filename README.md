@@ -29,20 +29,22 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayggunn&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayggunn&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=aayggunn&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Global Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=aayggunn&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Global Stats" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayggunn&theme=vision-friendly-dark&hide_border=true" alt="Coding Streak" />
+      <br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayggunn&theme=dracula&hide_border=true" alt="Coding Streak" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayggunn&theme=zenburn" alt="Profile Summary Overview" />
+      <br />
+      <img src="https://github-readme-stats.vercel.app/api/card?username=aayggunn&theme=dracula&layout=default&hide_border=true" alt="Profile Summary Overview" />
     </td>
   </tr>
 </table>
@@ -51,14 +53,14 @@
 
 ### 📬 Get In Touch
 
-I am open to Long-Term Internships, Candidate Engineer roles, R&D project collaborations, and technical discussions:
+I am open to Long-Term Internships, Candidate Engineer roles, R&D project collaborations, and technical discussions. Feel free to reach out:
 
-* 📧 **Email:** abdurrahmnaygun@gmail.com
-* 💼 **LinkedIn:** [linkedin.com/in/aayggunn](https://linkedin.com/in/aayggunn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrahmnaygun@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayggunn)
 
 ---
 
 <p align="right">
-  <img src="https://komarev.com/ghvc/?username=aayggunn&color=blue&style=flat-square" alt="Profile View Counter" />
+  <img src="https://profile-counter.glitch.me/aayggunn/count.svg" alt="Profile View Counter" />
 </p>
 
