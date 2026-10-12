@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**aayggunn/aayggunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- GitHub Genel İstatistikleri -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+  <br/><br/>
 
-Here are some ideas to get you started:
+  <!-- GitHub Streak (Seri) İstatistiği -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br/><br/>
+
+  <!-- En Çok Kullanılan Diller -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+</div>
