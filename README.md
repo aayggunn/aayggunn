@@ -1,5 +1,10 @@
 <div align="center">
 
+  <!-- Animasyonlu Başlık -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F92672&center=true&vCenter=true&width=500&lines=Elektrik-Elektronik+Mühendisi;Gömülü+Sistemler+Geliştiricisi;C,+C++,+Assembly+Geliştiricisi" alt="Typing SVG" />
+  
+  <br/><br/>
+
   <!-- GitHub Genel İstatistikleri -->
   <img src="https://github-readme-stats.vercel.app/api?username=aayggunn&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   
@@ -14,6 +19,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayggunn&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
   <br/><br/>
+
+  <!-- Dinamik Aktivite Grafiği -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayggunn&theme=radical&hide_border=true" alt="Activity Graph" />
+
+  <br/><br/>
+  
+  ### 🛠️ Teknolojiler ve Araçlar
   
   <!-- Diller -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -22,7 +34,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Assembly-2C2255?style=for-the-badge" alt="Assembly" />
   
-  <br/><br/>
+  <br/>
 
   <!-- Veritabanı ve Araçlar -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -30,11 +42,6 @@
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
-  <br/><br/>
-
-  <!-- Commit, PR, Issue sayılarına göre otomatik kazanılan kupalar -->
-  <img src="https://github-profile-trophy.vercel.app/?username=aayggunn&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 
   <br/><br/>
 
