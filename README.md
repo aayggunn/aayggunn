@@ -1,7 +1,5 @@
 <div align="center">
 
-  <!-- Animasyonlu Başlık -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F92672&center=true&vCenter=true&width=500&lines=Elektrik-Elektronik+Mühendisi;Gömülü+Sistemler+Geliştiricisi;C,+C++,+Assembly+Geliştiricisi" alt="Typing SVG" />
   
   <br/><br/>
 
@@ -20,12 +18,9 @@
 
   <br/><br/>
 
-  <!-- Dinamik Aktivite Grafiği -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayggunn&theme=radical&hide_border=true" alt="Activity Graph" />
 
   <br/><br/>
   
-  ### 🛠️ Teknolojiler ve Araçlar
   
   <!-- Diller -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
